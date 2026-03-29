@@ -7,7 +7,7 @@ Slot: B22
 Software: Linux Kernel
 
 ## Project Overview
-This repository contains a structured audit of the Linux Kernel, focusing on its history, licensing (GPL v2), and technical architecture. The project demonstrates a deep understanding of Free and Open Source Software (FOSS) principles through practical shell scripting and system analysis.
+This repository contains a structured audit of the Linux Kernel, focusing on its history, licensing (GPL v2), and technical architecture. The project is focused on understanding Free and Open Source Software (FOSS) principles through practical shell scripting and system analysis.
 
 ## Software
 **Linux Kernel** 
