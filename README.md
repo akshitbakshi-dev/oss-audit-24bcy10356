@@ -15,6 +15,19 @@ This repository contains a structured audit of the Linux Kernel, focusing on its
 
 The Linux kernel is a free and open-source , Unix-like kernel that is used in many computer systems worldwide. The kernel was created by Linus Torvalds in 1991 and was soon adopted as the kernel for the GNU operating system (OS) which was created to be a free replacement for Unix. Linus Torvalds was a student who wanted a free Unix-like system and could not afford one. He wanted to access his university's Unix servers from his 386 PC but found the existing options too expensive or limited. 
 
+---
+
+## Repository Structure
+```bash
+oss-audit-24bcy10356
+├── README.md
+├── script_1.sh
+├── script_2.sh
+├── script_3.sh
+├── script_4.sh
+└── script_5.sh
+```
+
 ## Script Descriptions
 
 ### Script 1 - System Identity Report
